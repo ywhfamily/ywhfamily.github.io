@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ywhfamily.github.io</id>
+    <id>https://en.ywhfamily.com</id>
     <title>YWH Family</title>
-    <updated>2024-04-27T13:02:47.512Z</updated>
+    <updated>2026-04-19T01:08:01.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ywhfamily.github.io"/>
-    <link rel="self" href="https://ywhfamily.github.io/atom.xml"/>
+    <link rel="alternate" href="https://en.ywhfamily.com"/>
+    <link rel="self" href="https://en.ywhfamily.com/atom.xml"/>
     <subtitle>Logic &amp; Math Puzzles</subtitle>
-    <logo>https://ywhfamily.github.io/images/avatar.png</logo>
-    <icon>https://ywhfamily.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2024, YWH Family</rights>
+    <logo>https://en.ywhfamily.com/images/avatar.png</logo>
+    <icon>https://en.ywhfamily.com/favicon.ico</icon>
+    <rights>All rights reserved 2026, YWH Family</rights>
     <entry>
         <title type="html"><![CDATA[Star Exploration]]></title>
-        <id>https://ywhfamily.github.io/post/star-exploration/</id>
-        <link href="https://ywhfamily.github.io/post/star-exploration/">
+        <id>https://en.ywhfamily.com/post/star-exploration/</id>
+        <link href="https://en.ywhfamily.com/post/star-exploration/">
         </link>
         <updated>2024-04-06T13:07:48.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -48,8 +48,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moving Maze]]></title>
-        <id>https://ywhfamily.github.io/post/yi-dong-mi-gong/</id>
-        <link href="https://ywhfamily.github.io/post/yi-dong-mi-gong/">
+        <id>https://en.ywhfamily.com/post/yi-dong-mi-gong/</id>
+        <link href="https://en.ywhfamily.com/post/yi-dong-mi-gong/">
         </link>
         <updated>2021-06-09T08:01:49.000Z</updated>
         <content type="html"><![CDATA[<ol>
@@ -79,8 +79,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reverse - Unified Color]]></title>
-        <id>https://ywhfamily.github.io/post/reverse-unified-color/</id>
-        <link href="https://ywhfamily.github.io/post/reverse-unified-color/">
+        <id>https://en.ywhfamily.com/post/reverse-unified-color/</id>
+        <link href="https://en.ywhfamily.com/post/reverse-unified-color/">
         </link>
         <updated>2021-02-16T14:03:29.000Z</updated>
         <summary type="html"><![CDATA[<p>The Puzzles of Color. You can Reverse, Rotate and Slide color blocks.  There are 18 puzzles. Each have 6 stages with infinite levels. You can play as long as you like.</p>
@@ -111,8 +111,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Relay Flip]]></title>
-        <id>https://ywhfamily.github.io/post/relay-flip/</id>
-        <link href="https://ywhfamily.github.io/post/relay-flip/">
+        <id>https://en.ywhfamily.com/post/relay-flip/</id>
+        <link href="https://en.ywhfamily.com/post/relay-flip/">
         </link>
         <updated>2021-02-16T14:03:07.000Z</updated>
         <summary type="html"><![CDATA[<p>A Stroke Puzzle</p>
@@ -157,8 +157,8 @@ or leave comment below.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[15 Puzzle Polygon]]></title>
-        <id>https://ywhfamily.github.io/post/15-puzzle-polygon/</id>
-        <link href="https://ywhfamily.github.io/post/15-puzzle-polygon/">
+        <id>https://en.ywhfamily.com/post/15-puzzle-polygon/</id>
+        <link href="https://en.ywhfamily.com/post/15-puzzle-polygon/">
         </link>
         <updated>2021-02-16T14:02:22.000Z</updated>
         <summary type="html"><![CDATA[<p>15 Puzzle Enhanced Version. Fixed Block Mode and Irregular Board Mode. Three Shapes: Square, Triangle, Hexagon.</p>
